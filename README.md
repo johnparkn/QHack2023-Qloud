@@ -1,1 +1,1 @@
-# Quantum-optimization-algorithm-for-Cloud-computing
+# Cloud computing for Quantum Computer, Quantum Compter for Cloud computing
