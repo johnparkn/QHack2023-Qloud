@@ -10,7 +10,12 @@ Detail problem, method, simulation, result, disccusion and references are includ
 
 # Code description
 In this project, one classical algorithm and 3 quantum algorithm is compared. Detail comments are written in code.
+
 BPP_Class : python file solving Bpp  using classical algorithm
+
 BPP_QAOA : python file solving Bpp  using Quantum Approximate Optimization Algorithm
+
 BPP_QAOAn : python file solving Bpp using Quantum Alternating Operator Ansatz
+
 BPP_FALQON : python file solving Bpp using Feedback based Quantum Optimization
+
