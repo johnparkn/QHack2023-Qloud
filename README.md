@@ -1,5 +1,6 @@
 # Cloud computing for Quantum Computer, Quantum Compter for Cloud computing
 Team Qloud(Quanutm cloud)
+
 Amazon Bracket Challenge
 
 # Project decription
@@ -8,7 +9,7 @@ For cloud service with the multi-server, it is important to make operation costs
 Detail problem, method, simulation, result, disccusion and references are included in Qloud.pdf.
 
 # Code description
-In this project, one classical algorithm and 3 quantum algorithm is compared. 
+In this project, one classical algorithm and 3 quantum algorithm is compared. Detail comments are written in code.
 BPP_Class : python file solving Bpp  using classical algorithm
 BPP_QAOA : python file solving Bpp  using Quantum Approximate Optimization Algorithm
 BPP_QAOAn : python file solving Bpp using Quantum Alternating Operator Ansatz
